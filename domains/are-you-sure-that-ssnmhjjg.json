@@ -1,9 +1,9 @@
 {
-  "owner": {
-    "username": "sddsnmhjjg-ship-it",
-    "email": "sddsnmhjjg@gmail.com"
-  },
-  "records": {
-    "CNAME": "ssnmhjjg-ez.netlify.app"
-  }
+    "owner": {
+        "username": "ssnmhjjg-ship-it"
+    },
+    "record": {
+        "CNAME": "cname.vercel-dns.com",
+        "TXT": ["vc-domain-verify=โค้ดที่นายก๊อปมาวางตรงนี้"]
+    }
 }
